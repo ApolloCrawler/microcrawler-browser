@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiagorg/gulp-es6-webpack-example.git"
+    "url": "git+https://github.com/korczis/microcrawler-browser.git"
   },
   "keywords": [
     "gulp",
@@ -19,7 +19,7 @@
     "mocha",
     "chai"
   ],
-  "author": "Tomas Korcak <korczis@gmail.co<",
+  "author": "Tomas Korcak <korczis@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/korczis/microcrawler-browser/issues"
