@@ -1,8 +1,8 @@
 {
-  "name": "gulp-es6-webpack-example",
+  "name": "microcrawler-browser",
   "version": "0.0.1",
-  "description": "Sample setup with Gulp, Babel, Mocha and Webpack",
-  "main": "src/main.js",
+  "description": "Proof-of-Concept: Microcrawler in your Browser!",
+  "main": "lib/index.js",
   "scripts": {
     "build": "gulp",
     "test": "gulp test"
@@ -19,12 +19,12 @@
     "mocha",
     "chai"
   ],
-  "author": "Tiago Garcia",
-  "license": "ISC",
+  "author": "Tomas Korcak <korczis@gmail.co<",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiagorg/gulp-es6-webpack-example/issues"
+    "url": "https://github.com/korczis/microcrawler-browser/issues"
   },
-  "homepage": "https://github.com/tiagorg/gulp-es6-webpack-example#readme",
+  "homepage": "https://github.com/korczis/microcrawler-browser#readme",
   "devDependencies": {
     "babel-core": "^6.16.0",
     "babel-preset-es2015": "^6.16.0",
